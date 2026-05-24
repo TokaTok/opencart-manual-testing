@@ -43,7 +43,6 @@ The goal of this project is to practice manual software testing by testing commo
 
 This repository includes:
 
-- Test plan
 - Manual test cases
 - Bug reports
 - Screenshots for failed test cases

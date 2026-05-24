@@ -29,7 +29,6 @@ The goal of this project is to practice manual software testing by testing commo
 - Positive testing
 - Negative testing
 - Form validation testing
-  
 
 ## Test Environment
 
@@ -46,7 +45,9 @@ This repository includes:
 
 - Test plan
 - Manual test cases
-- Test execution results
 - Bug reports
 - Screenshots for failed test cases
 
+## Summary
+
+Designed and executed manual test cases for the OpenCart demo e-commerce application, covering registration, login, product search, cart functionality, checkout flow, and form validation. Created bug reports with clear steps to reproduce, expected results, and actual results.
